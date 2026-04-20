@@ -31,13 +31,15 @@ Le projet couvre un périmètre fonctionnel large — authentification SSO, gest
 
 ![Landing page — véhicules disponibles groupés par agence](./screenshots/landing-page.png)
 
-### Tableau de bord
+### Tableau de bord - Chacune de ces sections n'est visible que des utilisateurs ayant le rôle approprié
 
 ![Tableau de bord de l'utilisateur](./screenshots/dashboard.png)
 
 ### Réservation d'un véhicule
 
 ![Formulaire de réservation avec champs dynamiques](./screenshots/reservation-form.png)
+![Page de réservation avec horaires adaptés à l'atelier dont dépend le véhicule](./screenshots/reservation-form_next.png)
+
 
 ### Gestion des réservations
 
