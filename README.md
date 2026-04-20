@@ -248,4 +248,4 @@ Développé avec Rust (Axum + Diesel), React 19, TypeScript et le Système de De
 
 ---
 
-*Code source disponible sur demande pour les recruteurs ou partenaires potentiels — [me contacter](https://github.com/loicdurand)*
+*Code source disponible sur demande pour les recruteurs ou partenaires potentiels — [me contacter](https://github.com/loicduranddev)*
